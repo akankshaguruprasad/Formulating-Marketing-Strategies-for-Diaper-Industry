@@ -1,4 +1,4 @@
-# Formulating-Marketing-Strategies-for-Diaper-Industry
+# Marketing-Strategies-for-Diaper-Industry
 
 ### Report :
 Marketing Strategies for Diaper Industry
