@@ -4,7 +4,7 @@
 Marketing Strategies for Diaper Industry
 
 ### Codes:
-MNL_Project.sas, Panel_Project.sas, RFM_Project.sas
+Panel_Project.sas, RFM_Project.sas, MNL_Project.sas
 
 ### Data:
 #### Household Panel Data: 
