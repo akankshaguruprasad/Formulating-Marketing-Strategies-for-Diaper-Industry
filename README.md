@@ -7,5 +7,12 @@ Marketing Strategies for Diaper Industry
 MNL_Project.sas, Panel_Project.sas, RFM_Project.sas
 
 ### Data:
-#### Panel Data: 
+#### Household Panel Data: 
 diapers_PANEL_DR_1114_1165, diapers_PANEL_GR_1114_1165, diapers_PANEL_MA_1114_1165
+
+#### Store Data:
+
+#### Brand Level Information:
+
+#### Demographic Information:
+
